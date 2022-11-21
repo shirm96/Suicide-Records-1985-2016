@@ -10,12 +10,12 @@ The database was taken from [Kaggle](https://www.kaggle.com/datasets/russellyate
 I've also added a data table about continent and countries in order to find the continent for each country in the suicide database.
 
 
-#### The Technology:
+### The Technology:
 
 The database was analyzed and cleaned using SQL ms server, and afterward was visualized using tableau public.
 
 
-##### Tableau Usage:
+### Tableau Usage:
 I've used Tableau public in order to make visualization for the results and a dashborad.
 
 Here is the [Dashborad](https://public.tableau.com/app/profile/shir.meir/viz/SuicidesRates1985-2016/Dashboard1/).
